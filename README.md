@@ -36,7 +36,13 @@ In Brainhack Global 2022 we aim to:
 4. Submitting issues for feature requests.
 5. And finally, if you like, contributing to the script.
 
-**CONTRIBUTOR**: Arush Arun
+**Contributor:** Niousha-Dehestani, Deakin University/University of Melbourne
+
+**Contributor:** Nazanin Sheykh Andalibi, Western Sydney University
+
+**Contributor:** Sara, Western Sydney
+
+**Contributor:** Arush Arun
 
 ---
 
